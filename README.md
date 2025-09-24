@@ -17,11 +17,11 @@ Accessibility Compliant: WCAG 2.1 AA standards with keyboard navigation and scre
 SEO Optimized: Meta tags, structured data, and semantic HTML for enhanced search visibility
 
 🚀 Live Demo
-View Portfolio <!-- Replace with your actual URL -->
+View Portfolio https://harshitha-sai04.github.io/INTERACTIVE-DIGITAL-PORTFOLIO/
 
 📱 Screenshots
-Desktop View
-Desktop Portfolio
+[https://github.com/Harshitha-sai04/INTERACTIVE-DIGITAL-PORTFOLIO/blob/9422bcf02dbcce2a67d27e970f0145e13d2d1434/Screenshot%202025-09-24%20213208.png](https://github.com/Harshitha-sai04/INTERACTIVE-DIGITAL-PORTFOLIO/blob/9422bcf02dbcce2a67d27e970f0145e13d2d1434/Screenshot%202025-09-24%20213208.png)
+[Desktop Portfolio](https://github.com/Harshitha-sai04/INTERACTIVE-DIGITAL-PORTFOLIO/blob/9422bcf02dbcce2a67d27e970f0145e13d2d1434/Screenshot%202025-09-24%20213705.png)
 
 🛠️ Tech Stack
 Frontend Technologies
@@ -172,7 +172,7 @@ Go to repository Settings → Pages
 
 Select source branch (main)
 
-Site will be live at https://yourusername.github.io/repository-name
+Site will be live at https://harshitha-sai04.github.io/INTERACTIVE-DIGITAL-PORTFOLIO/
 
 GitHub Actions - Automated build and deployment pipeline
 
@@ -237,5 +237,6 @@ Fonts - Google Fonts (Inter) for clean typography
 Icons - Emoji icons for consistent cross-platform display
 
 Hosting - GitHub Pages for free, reliable hosting
+
 
 Last Updated: September 2025
