@@ -20,8 +20,9 @@ SEO Optimized: Meta tags, structured data, and semantic HTML for enhanced search
 View Portfolio https://harshitha-sai04.github.io/INTERACTIVE-DIGITAL-PORTFOLIO/
 
 📱 Screenshots
-Screenshot 2025-09-24 213208.png
-Screenshot 2025-09-24 213705.png
+![Screenshot 2025-09-24 213208](https://github.com/Harshitha-sai04/INTERACTIVE-DIGITAL-PORTFOLIO/blob/main/Screenshot%202025-09-24%20213208.png)
+![Screenshot 2025-09-24 213705](https://github.com/Harshitha-sai04/INTERACTIVE-DIGITAL-PORTFOLIO/blob/main/Screenshot%202025-09-24%20213705.png)
+
 
 🛠️ Tech Stack
 Frontend Technologies
@@ -240,4 +241,5 @@ Hosting - GitHub Pages for free, reliable hosting
 
 
 Last Updated: September 2025
+
 
